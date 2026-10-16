@@ -4,6 +4,8 @@ Full-stack developer in India. I build with Node.js, TypeScript, MySQL, React an
 
 **Building:** [OpsTrellis](https://github.com/mtr1920/opstrellis): voice dictation for macOS and Linux. Hold a key, speak, and clean text appears in any app. It runs offline by default.
 
+**At work** I've built a live AI interview platform (LiveKit, Gemini Live, OpenAI Realtime), a multi-tenant NestJS backend, and a Microsoft Teams meeting assistant.
+
 **Also:**
 - [genai-architect-resources](https://github.com/mtr1920/genai-architect-resources): 200 link-checked readings on agents, context engineering and evals
 - [claude-cca-f-prep](https://github.com/mtr1920/claude-cca-f-prep): a study kit for the Claude Certified Architect exam
