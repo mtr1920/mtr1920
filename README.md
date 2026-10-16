@@ -1,6 +1,6 @@
 ### Hi, I'm Mrityunjay
 
-Backend developer in India. I've worked with Node.js, TypeScript and MySQL since 2019, and lately I write Rust.
+Full-stack developer in India. I build with Node.js, TypeScript, MySQL, React and Angular, and since 2019 I have shipped web platforms end to end. Lately I write Rust.
 
 **Building:** [OpsTrellis](https://github.com/mtr1920/opstrellis): voice dictation for macOS and Linux. Hold a key, speak, and clean text appears in any app. It runs offline by default.
 
