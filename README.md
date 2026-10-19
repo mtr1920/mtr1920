@@ -2,7 +2,7 @@
 
 Full-stack developer in India. I build with Node.js, TypeScript, MySQL, React and Angular, and since 2019 I have shipped web platforms end to end. Lately I write Rust.
 
-**Building:** [OpsTrellis](https://github.com/mtr1920/opstrellis): voice dictation for macOS and Linux. Hold a key, speak, and clean text appears in any app. It runs offline by default.
+**Building:** [OpsTrellis](https://github.com/mtr1920/opstrellis): voice dictation for macOS and Linux. Hold a key, speak, and clean text appears in any app. It runs offline by default, and it is free and open source (MIT).
 
 **Also:**
 - [genai-architect-resources](https://github.com/mtr1920/genai-architect-resources): 200 link-checked readings on agents, context engineering and evals
